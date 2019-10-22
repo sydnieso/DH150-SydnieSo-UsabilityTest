@@ -14,6 +14,5 @@ The usability test materials can be found [here](https://forms.gle/eDvRYaWaBDgCD
 #### Usability Test Video
 The pilot test video can be found [here](https://drive.google.com/open?id=14OI0xrGvUm8xV0wg91YGzYOYgcroDkuy).
 
-
 #### Takeaways
 Through this usability test I learned that I need to be more well prepared with my materials. Overall the usability test went well, because the user pointed out many of the flaws that I believed were present in the app as well. There were some technical issues that caused my screenrecording to end without me knowing, which led to a pause in what was a well flowing conversation with the user. In the future I would improve the screen recording software that I chose to use on my phone, because it is not clear as to which buttons the user is selecting (which is why I asked the user to verbally say what was being clicked). This software also stopped recording without half way through the session which I would hope to prevent in the future by periodically checking that the recording is still in session.
