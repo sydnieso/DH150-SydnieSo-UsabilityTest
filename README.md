@@ -16,3 +16,6 @@ https://forms.gle/eDvRYaWaBDgCD4sJ9
 
 #### Takeaways
 Through this usability test I learned that I need to be more well prepared with my materials. Overall the usability test went well, because the user pointed out many of the flaws that I believed were present in the app as well. There were some technical issues that caused my screenrecording to end without me knowing, which led to a pause in what was a well flowing conversation with the user. In the future I would improve the screen recording software that I chose to use on my phone, because it is not clear as to which buttons the user is selecting (which is why I asked the user to verbally say what was being clicked). This software also stopped recording without half way through the session which I would hope to prevent in the future by periodically checking that the recording is still in session.
+
+**Note**
+I conducted an additional test after the recording failed during my first test. The second video is linked below. To know the different answers connected to the online survey, this user signed with the initials MM.
