@@ -12,6 +12,7 @@ Finally, a third issue I discovered was the lack of control and freedom the user
 https://forms.gle/eDvRYaWaBDgCD4sJ9
 
 #### Usability Test Video
+https://drive.google.com/open?id=14OI0xrGvUm8xV0wg91YGzYOYgcroDkuy
 
 
 #### Takeaways
