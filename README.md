@@ -9,10 +9,10 @@ Another issue that this usability test will address is the consistency and stand
 Finally, a third issue I discovered was the lack of control and freedom the user has. If a user were to accidentally start an activity and wanted to cancel it, there is no option to do so, instead the user has to indicated ‘finishing’ the activity. To test if this is confusing to other users, I will ask them to start an activity and attempt to cancel it after changing their mind.
 
 #### Online Survey
-https://forms.gle/eDvRYaWaBDgCD4sJ9
+The usability test materials can be found [here](https://forms.gle/eDvRYaWaBDgCD4sJ9)
 
 #### Usability Test Video
-https://drive.google.com/open?id=14OI0xrGvUm8xV0wg91YGzYOYgcroDkuy
+The pilot test video can be found [here](https://drive.google.com/open?id=14OI0xrGvUm8xV0wg91YGzYOYgcroDkuy)
 
 
 #### Takeaways
